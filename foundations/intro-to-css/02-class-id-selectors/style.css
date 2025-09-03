@@ -1,0 +1,12 @@
+p {
+    background-color: red/lightpink;
+    font-style: verdana, DejaVu Sans, sans-serif;
+    color: blue;
+    font-size: 36px, 24px;
+        
+}
+div {
+    background-color: lightgreen;
+    font: bold;
+    font-size: 24px;
+}
